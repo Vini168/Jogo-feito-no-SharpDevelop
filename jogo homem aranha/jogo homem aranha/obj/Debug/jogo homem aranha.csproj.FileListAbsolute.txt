@@ -1,0 +1,35 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\obj\Debug\jogo_homem_aranha.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.pdb
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.exe
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.pdb
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\obj\Debug\jogo_homem_aranha.MainForm.resources
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csproj.GenerateResource.Cache
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.exe
+C:\Users\Aluno\Downloads\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.pdb
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.exe
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.pdb
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csprojResolveAssemblyReference.cache
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo_homem_aranha.MainForm.resources
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csproj.GenerateResource.Cache
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.exe
+E:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.pdb
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.exe
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.pdb
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csprojResolveAssemblyReference.cache
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo_homem_aranha.MainForm.resources
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csproj.GenerateResource.Cache
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.exe
+G:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.pdb
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.exe
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\bin\Debug\jogo homem aranha.pdb
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csprojResolveAssemblyReference.cache
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo_homem_aranha.MainForm.resources
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.csproj.GenerateResource.Cache
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.exe
+D:\Etec-Vinicius\DS-2A-M-MTEC DESENVOLVIMENTO DE SISTEMAS-222-20220\jogo homem aranha\jogo homem aranha\obj\Debug\jogo homem aranha.pdb
